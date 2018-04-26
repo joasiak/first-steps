@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40fa8bf0-c9e4-46b6-b065-fad0de8b40cf" name="Default" comment="" />
+    <list default="true" id="40fa8bf0-c9e4-46b6-b065-fad0de8b40cf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codingbat/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -22,7 +29,7 @@
       <file leaf-file-name="Recursion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
+            <state relative-caret-position="-1960">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -31,8 +38,8 @@
       <file leaf-file-name="RecursionTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
+            <state relative-caret-position="220">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,7 +50,7 @@
       <file leaf-file-name="Functional.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
+            <state relative-caret-position="1660">
               <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="86" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,11 +59,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Map.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/Map.java">
+      <file leaf-file-name="MapExamples.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-251">
+              <caret line="130" column="30" selection-start-line="123" selection-end-line="136" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OtherExamples.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="212" selection-start-line="212" selection-end-line="229" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OtherExamplesTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assert.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="110" selection-start-line="110" selection-end-line="110" />
+              <folding>
+                <element signature="e#3920#3921#0" expanded="true" />
+                <element signature="e#3966#3967#0" expanded="true" />
+                <element signature="e#4403#4404#0" expanded="true" />
+                <element signature="e#4455#4456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComparisonFailure.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/ComparisonFailure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapExamplesTestSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -64,7 +133,7 @@
       <file leaf-file-name="FunctionalTestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/functional/FunctionalTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="43">
               <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,10 +147,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -391,6 +463,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codingbat/functional/FunctionalTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codingbat/map/Map.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java" />
       </list>
     </option>
   </component>
@@ -401,11 +478,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="808" />
-    <option name="y" value="3" />
-    <option name="width" value="1150" />
+    <option name="x" value="855" />
+    <option name="y" value="4" />
+    <option name="width" value="1317" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -469,6 +547,15 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstSteps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -508,6 +595,24 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstSteps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstSteps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -533,6 +638,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.codingbat.others" />
+      <recent name="com.codingbat.map" />
       <recent name="com.codingbat.functional" />
       <recent name="com.codingbat.recursion" />
     </key>
@@ -552,7 +659,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FunctionalTestSuite.doubling">
+  <component name="RunManager" selected="JUnit.OtherExamplesTest.withoutString">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -582,19 +689,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RecursionTestSuite.countAbc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OtherExamplesTest.withoutString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSteps_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.recursion.*" />
+          <option name="PATTERN" value="com.codingbat.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codingbat.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.recursion.RecursionTestSuite" />
-      <option name="METHOD_NAME" value="countAbc" />
+      <option name="PACKAGE_NAME" value="com.codingbat.others" />
+      <option name="MAIN_CLASS_NAME" value="com.codingbat.others.OtherExamplesTest" />
+      <option name="METHOD_NAME" value="withoutString" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -726,19 +833,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.RecursionTestSuite.countAbc" />
       <item itemvalue="JUnit.RecursionTestSuite.countHi2" />
       <item itemvalue="JUnit.RecursionTestSuite.strCount" />
       <item itemvalue="JUnit.RecursionTestSuite.strDist" />
       <item itemvalue="JUnit.FunctionalTestSuite.doubling" />
+      <item itemvalue="JUnit.OtherExamplesTest.withoutString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OtherExamplesTest.withoutString" />
         <item itemvalue="JUnit.FunctionalTestSuite.doubling" />
         <item itemvalue="JUnit.RecursionTestSuite.strDist" />
         <item itemvalue="JUnit.RecursionTestSuite.strCount" />
         <item itemvalue="JUnit.RecursionTestSuite.countHi2" />
-        <item itemvalue="JUnit.RecursionTestSuite.countAbc" />
       </list>
     </recent_temporary>
   </component>
@@ -753,63 +860,64 @@
       <option name="presentableId" value="Default" />
       <updated>1524561538596</updated>
       <workItem from="1524561541919" duration="12867000" />
-      <workItem from="1524647644249" duration="669000" />
+      <workItem from="1524647644249" duration="11178000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RecursionTestSuite_pairStar - 2018.04.24 at 13h 21m 06s.xml">
-      <configuration name="RecursionTestSuite.pairStar" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 08m 20s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_countAbc - 2018.04.24 at 13h 36m 44s.xml">
-      <configuration name="RecursionTestSuite.countAbc" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 09m 33s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_countAbc - 2018.04.24 at 13h 37m 25s.xml">
-      <configuration name="RecursionTestSuite.countAbc" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 10m 19s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_countHi2 - 2018.04.24 at 13h 56m 51s.xml">
-      <configuration name="RecursionTestSuite.countHi2" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 12m 42s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_strCount - 2018.04.24 at 14h 01m 50s.xml">
-      <configuration name="RecursionTestSuite.strCount" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 16m 25s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_strDist - 2018.04.24 at 14h 51m 56s.xml">
-      <configuration name="RecursionTestSuite.strDist" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 17m 28s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_strDist - 2018.04.24 at 14h 56m 23s.xml">
-      <configuration name="RecursionTestSuite.strDist" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 18m 53s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_strDist - 2018.04.24 at 14h 56m 48s.xml">
-      <configuration name="RecursionTestSuite.strDist" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 21m 55s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RecursionTestSuite_strDist - 2018.04.24 at 14h 57m 21s.xml">
-      <configuration name="RecursionTestSuite.strDist" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 22m 01s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionalTestSuite_doubling - 2018.04.24 at 15h 18m 50s.xml">
-      <configuration name="FunctionalTestSuite.doubling" configurationId="JUnit" />
+    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 22m 34s.xml">
+      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13536000" />
+    <option name="totallyTimeSpent" value="24045000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="808" y="3" width="1150" height="1047" extended-state="0" />
+    <frame x="855" y="4" width="1317" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32896176" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32896176" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32896176" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2614679" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18138425" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -817,8 +925,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40655738" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.33224043" />
@@ -836,7 +943,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -877,18 +992,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionExampleTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionTestSuite.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="-1960">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1660">
+          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="130" column="30" selection-start-line="123" selection-end-line="136" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -897,7 +1032,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/functional/FunctionalTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="43">
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -905,27 +1040,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="86" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/Map.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/ComparisonFailure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#3920#3921#0" expanded="true" />
+            <element signature="e#3966#3967#0" expanded="true" />
+            <element signature="e#4403#4404#0" expanded="true" />
+            <element signature="e#4455#4456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="212" selection-start-line="212" selection-end-line="229" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
