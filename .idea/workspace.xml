@@ -2,12 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40fa8bf0-c9e4-46b6-b065-fad0de8b40cf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu5/DoubleCola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/AreTheyTheSame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/BuildAPileOfCubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/CountTheSmileyFaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/DigitalRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/EasyDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/GiveMeADiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/PersistentBugger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/PlayingWithDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu7/DisemvowelTrolls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codewars/kyu7/ExesAndOhs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/ConverterBinaryBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/ConverterGivenBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/others/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu5/DoubleColaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/AreTheyTheSameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/BuildAPileOfCubesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/CountTheSmileyFacesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/DigitalRootTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/EasyDiagonalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/GiveMeADiamondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/PlayingWithDigitsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu7/DisemvowelTrollsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codewars/kyu7/ExesAndOhsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/codingbat/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/codingbat/others/OtherExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/codingbat/others/OtherExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/codingbat/others/OtherExamplesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/codingbat/others/OtherExamplesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,115 +50,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Recursion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
+      <file leaf-file-name="CountTheSmileyFaces.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/CountTheSmileyFaces.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1960">
+            <state relative-caret-position="420">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiveMeADiamond.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/GiveMeADiamond.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiveMeADiamondTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/GiveMeADiamondTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectiveCallable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParentRunner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="328" selection-start-line="328" selection-end-line="328" />
+              <folding>
+                <element signature="e#2922#2923#0" expanded="true" />
+                <element signature="e#2966#2967#0" expanded="true" />
+                <element signature="e#11040#11204#0" expanded="true" />
+                <element signature="e#11203#11204#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockJUnit4ClassRunner.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EasyDiagonal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/EasyDiagonal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayingWithDigits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/PlayingWithDigits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersistentBugger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/PersistentBugger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecursionTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionTestSuite.java">
+      <file leaf-file-name="AreTheyTheSame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/AreTheyTheSame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Functional.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1660">
-              <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="86" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapExamples.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251">
-              <caret line="130" column="30" selection-start-line="123" selection-end-line="136" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OtherExamples.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="212" selection-start-line="212" selection-end-line="229" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OtherExamplesTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Assert.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="110" selection-start-line="110" selection-end-line="110" />
-              <folding>
-                <element signature="e#3920#3921#0" expanded="true" />
-                <element signature="e#3966#3967#0" expanded="true" />
-                <element signature="e#4403#4404#0" expanded="true" />
-                <element signature="e#4455#4456#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComparisonFailure.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/ComparisonFailure.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapExamplesTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunctionalTestSuite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/functional/FunctionalTestSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="360">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,6 +160,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
@@ -466,8 +480,34 @@
         <option value="$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Calendar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/ConverterBinaryBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/ConverterGivenBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Multiplicatoin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Multiplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/PlayingWithDigitsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/DisemvowelTrollsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/PersistentBugger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/PlayingWithDigits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/DisemvowelTrolls.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu7/ExesAndOhsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu7/ExesAndOhs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/BuildAPileOfCubes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/BuildAPileOfCubesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/DigitalRootTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/DigitalRoot.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/EasyDiagonalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu5/DoubleColaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu5/DoubleCola.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/AreTheyTheSame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/AreTheyTheSameTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/CountTheSmileyFacesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/CountTheSmileyFaces.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/EasyDiagonal.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/codewars/kyu6/GiveMeADiamondTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/codewars/kyu6/GiveMeADiamond.java" />
       </list>
     </option>
   </component>
@@ -478,10 +518,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="855" />
-    <option name="y" value="4" />
-    <option name="width" value="1317" />
-    <option name="height" value="1047" />
+    <option name="x" value="1037" />
+    <option name="width" value="1530" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -489,6 +528,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -520,7 +561,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -528,8 +569,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -537,8 +578,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -546,8 +588,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -555,8 +598,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstSteps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -577,7 +630,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -585,8 +638,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="functional" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -594,8 +647,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="map" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -603,8 +657,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
@@ -612,16 +667,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstSteps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstSteps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="codingbat" type="462c0819:PsiDirectoryNode" />
-              <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -638,10 +701,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.codewars.kyu6" />
+      <recent name="com.codewars.kyu5" />
+      <recent name="com.codewars.kyu7" />
+      <recent name="com.codewars" />
       <recent name="com.codingbat.others" />
-      <recent name="com.codingbat.map" />
-      <recent name="com.codingbat.functional" />
-      <recent name="com.codingbat.recursion" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.codewars.kyu6" />
+      <recent name="com.codewars.kyu7" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -659,26 +727,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OtherExamplesTest.withoutString">
+  <component name="RunManager" selected="JUnit.GiveMeADiamondTest.testDiamond15">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FunctionalTestSuite.doubling" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CountTheSmileyFacesTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSteps_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.functional.*" />
+          <option name="PATTERN" value="com.codewars.kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codingbat.functional" />
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.functional.FunctionalTestSuite" />
-      <option name="METHOD_NAME" value="doubling" />
+      <option name="PACKAGE_NAME" value="com.codewars.kyu6" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.kyu6.CountTheSmileyFacesTest" />
+      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -689,19 +757,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="OtherExamplesTest.withoutString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GiveMeADiamondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSteps_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.others.*" />
+          <option name="PATTERN" value="com.codewars.kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codingbat.others" />
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.others.OtherExamplesTest" />
-      <option name="METHOD_NAME" value="withoutString" />
+      <option name="PACKAGE_NAME" value="com.codewars.kyu6" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.kyu6.GiveMeADiamondTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="GiveMeADiamondTest.testDiamond15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstSteps_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewars.kyu6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codewars.kyu6" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.kyu6.GiveMeADiamondTest" />
+      <option name="METHOD_NAME" value="testDiamond15" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -712,19 +803,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RecursionTestSuite.countHi2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GiveMeADiamondTest.testDiamond3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSteps_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.recursion.*" />
+          <option name="PATTERN" value="com.codewars.kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codingbat.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.recursion.RecursionTestSuite" />
-      <option name="METHOD_NAME" value="countHi2" />
+      <option name="PACKAGE_NAME" value="com.codewars.kyu6" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.kyu6.GiveMeADiamondTest" />
+      <option name="METHOD_NAME" value="testDiamond3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -735,42 +826,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RecursionTestSuite.strCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GiveMeADiamondTest.testDiamond5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstSteps_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingbat.recursion.*" />
+          <option name="PATTERN" value="com.codewars.kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codingbat.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.recursion.RecursionTestSuite" />
-      <option name="METHOD_NAME" value="strCount" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="RecursionTestSuite.strDist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstSteps_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codingbat.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codingbat.recursion" />
-      <option name="MAIN_CLASS_NAME" value="com.codingbat.recursion.RecursionTestSuite" />
-      <option name="METHOD_NAME" value="strDist" />
+      <option name="PACKAGE_NAME" value="com.codewars.kyu6" />
+      <option name="MAIN_CLASS_NAME" value="com.codewars.kyu6.GiveMeADiamondTest" />
+      <option name="METHOD_NAME" value="testDiamond5" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -833,19 +901,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.RecursionTestSuite.countHi2" />
-      <item itemvalue="JUnit.RecursionTestSuite.strCount" />
-      <item itemvalue="JUnit.RecursionTestSuite.strDist" />
-      <item itemvalue="JUnit.FunctionalTestSuite.doubling" />
-      <item itemvalue="JUnit.OtherExamplesTest.withoutString" />
+      <item itemvalue="JUnit.CountTheSmileyFacesTest.test5" />
+      <item itemvalue="JUnit.GiveMeADiamondTest" />
+      <item itemvalue="JUnit.GiveMeADiamondTest.testDiamond3" />
+      <item itemvalue="JUnit.GiveMeADiamondTest.testDiamond5" />
+      <item itemvalue="JUnit.GiveMeADiamondTest.testDiamond15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OtherExamplesTest.withoutString" />
-        <item itemvalue="JUnit.FunctionalTestSuite.doubling" />
-        <item itemvalue="JUnit.RecursionTestSuite.strDist" />
-        <item itemvalue="JUnit.RecursionTestSuite.strCount" />
-        <item itemvalue="JUnit.RecursionTestSuite.countHi2" />
+        <item itemvalue="JUnit.GiveMeADiamondTest.testDiamond15" />
+        <item itemvalue="JUnit.GiveMeADiamondTest.testDiamond5" />
+        <item itemvalue="JUnit.GiveMeADiamondTest" />
+        <item itemvalue="JUnit.GiveMeADiamondTest.testDiamond3" />
+        <item itemvalue="JUnit.CountTheSmileyFacesTest.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -860,47 +928,49 @@
       <option name="presentableId" value="Default" />
       <updated>1524561538596</updated>
       <workItem from="1524561541919" duration="12867000" />
-      <workItem from="1524647644249" duration="11178000" />
+      <workItem from="1524647644249" duration="15572000" />
+      <workItem from="1525775265264" duration="659000" />
+      <workItem from="1526471551869" duration="39239000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 08m 20s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond3 - 2018.05.23 at 16h 16m 17s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 09m 33s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond3 - 2018.05.23 at 16h 17m 21s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 10m 19s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond3 - 2018.05.23 at 16h 21m 57s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 12m 42s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond3 - 2018.05.23 at 16h 22m 03s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 16m 25s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond15 - 2018.05.23 at 16h 30m 46s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond15" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 17m 28s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond15 - 2018.05.24 at 12h 16m 37s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond15" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 18m 53s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond5 - 2018.05.24 at 12h 16m 49s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 21m 55s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond15 - 2018.05.24 at 12h 25m 22s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond15" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 22m 01s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest_testDiamond15 - 2018.05.24 at 12h 25m 30s.xml">
+      <configuration name="GiveMeADiamondTest.testDiamond15" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OtherExamplesTest_withoutString - 2018.04.25 at 15h 22m 34s.xml">
-      <configuration name="OtherExamplesTest.withoutString" configurationId="JUnit" />
+    <history-entry file="GiveMeADiamondTest - 2018.05.24 at 12h 25m 37s.xml">
+      <configuration name="GiveMeADiamondTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24045000" />
+    <option name="totallyTimeSpent" value="68337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="855" y="4" width="1317" height="1047" extended-state="0" />
+    <frame x="1037" y="0" width="1530" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -913,11 +983,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32896176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32784313" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23607843" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18138425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17687075" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -925,7 +995,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.40655738" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.26196077" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.33224043" />
@@ -945,16 +1015,108 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java</url>
-          <line>14</line>
+          <url />
+          <line>7</line>
           <properties />
-          <option name="timeStamp" value="7" />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>10</line>
+          <properties class="com.codewars.kyu6.PlayingWithDigitsTest" method="Test1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>14</line>
+          <properties class="com.codewars.kyu6.EasyDiagonal" method="binomial">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url />
+          <line>19</line>
+          <properties class="com.codewars.kyu6.GiveMeADiamondTest" method="testDiamond5">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="27" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="i" />
+        <watch expression="j" />
+        <watch expression="k%10" />
+        <watch expression="digitsList.get(i)" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/ConverterBinaryBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/ConverterGivenBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/ComparisonFailure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/map/MapExamplesTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2900">
@@ -1003,47 +1165,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionExampleTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1960">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1660">
-          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="86" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
-          <caret line="130" column="30" selection-start-line="123" selection-end-line="136" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/functional/FunctionalTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/recursion/RecursionTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="200">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1059,28 +1184,32 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/ComparisonFailure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="740">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
+        <state relative-caret-position="1960">
           <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
-            <element signature="e#3920#3921#0" expanded="true" />
-            <element signature="e#3966#3967#0" expanded="true" />
-            <element signature="e#4403#4404#0" expanded="true" />
-            <element signature="e#4455#4456#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/others/OtherExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="212" selection-start-line="212" selection-end-line="229" selection-end-column="5" />
+        <state relative-caret-position="2040">
+          <caret line="105" column="46" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#360#361#0" expanded="true" />
@@ -1089,10 +1218,322 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/others/OtherExamplesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/recursion/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="20">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/functional/Functional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="86" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codingbat/map/MapExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="130" column="30" selection-start-line="123" selection-end-line="136" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/ConverterGivenBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/ConverterBinaryBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/PlayingWithDigitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu7/DisemvowelTrolls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu7/DisemvowelTrollsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu7/ExesAndOhsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu7/ExesAndOhs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/BuildAPileOfCubesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/DigitalRootTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/DigitalRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/EasyDiagonalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu5/DoubleColaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/AreTheyTheSameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/BuildAPileOfCubes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codingbat/functional/FunctionalTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu5/DoubleCola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/CountTheSmileyFacesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#176#184#0" expanded="true" />
+            <element signature="e#385#393#0" expanded="true" />
+            <element signature="e#621#629#0" expanded="true" />
+            <element signature="e#870#878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/AreTheyTheSame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/CountTheSmileyFaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/PlayingWithDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/PersistentBugger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/EasyDiagonal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/codewars/kyu6/GiveMeADiamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/codewars/kyu6/GiveMeADiamondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

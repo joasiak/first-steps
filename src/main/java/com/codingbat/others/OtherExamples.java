@@ -146,6 +146,13 @@ public class OtherExamples {
         }
         return isEnought;
     }
+/*
+    public boolean makeBricks(int small, int big, int goal) {
+        if (goal>big*5+small) return false;
+        if (goal%5>small) return false;
+        return true;
+    }
+*/
 
     public int fixTeen(int n) {
         if ((n != 15) && (n != 16) && (13 <= n) && (n <= 19))
@@ -254,8 +261,6 @@ public class OtherExamples {
         return fin;
     }
 */
-
-
 
     /*
     Given n>=0, create an array with the pattern {1,    1, 2,    1, 2, 3,   ... 1, 2, 3 .. n}
